@@ -123,7 +123,21 @@ Install NAT:  <br/>
 
 <p align="center">
 <br />
-<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://imgur.com/QIsSHyl.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/aDAKO6l.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/vUEuIxS.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/CEyE1p3.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/wf6dHYx.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/Mad4Ox3.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/oa7MsHh.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/AtWK0y9.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
 Install DHCP:  <br/>
