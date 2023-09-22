@@ -89,6 +89,16 @@ Include Active Directory Service:  <br/>
 
 <p align="center">
 <br />
+<img src="https://imgur.com/pdJRaju.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/IUzfSxV.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/EjbYDLw.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/GT3Ndg3.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/SGwajwn.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
  
 Create Administrative Account:  <br/>
 
@@ -96,6 +106,8 @@ Create Administrative Account:  <br/>
 - A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
 
 <p align="center">
+<br />
+<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
 Install NAT:  <br/>
@@ -105,6 +117,8 @@ Install NAT:  <br/>
 
 <p align="center">
 <br />
+<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
  
 Install DHCP:  <br/>
 
@@ -112,6 +126,8 @@ Install DHCP:  <br/>
 - A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
 
 <p align="center">
+<br />
+<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
 Download Script:  <br/>
@@ -121,6 +137,8 @@ Download Script:  <br/>
 
 <p align="center">
 <br />
+<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
  
 Execute Script:  <br/>
 
@@ -128,6 +146,8 @@ Execute Script:  <br/>
 - A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
 
 <p align="center">
+<br />
+<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
 Install Windows 10 in VirtualBox:  <br/>
@@ -137,6 +157,8 @@ Install Windows 10 in VirtualBox:  <br/>
 
 <p align="center">
 <br />
+<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
  
 Check if IP is working:  <br/>
 
@@ -145,6 +167,8 @@ Check if IP is working:  <br/>
 
 <p align="center">
 <br />
+<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
 
 Change Windows 10 Name:  <br/>
 
@@ -152,6 +176,7 @@ Change Windows 10 Name:  <br/>
 - The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
 
 <p align="center">
+<br /><img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
 Sign-in with User Account:  <br/>
@@ -160,6 +185,7 @@ Sign-in with User Account:  <br/>
 - A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
 
 <p align="center">
+<br /><img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
 <!--
