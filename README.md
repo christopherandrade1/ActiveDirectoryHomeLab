@@ -165,22 +165,19 @@ Install DHCP:  <br/>
 <img src="https://imgur.com/KVMm0nx.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
-Download Script:  <br/>
-
-- 
-
-<p align="center">
-<br />
-<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
-<br />
- 
 Execute Script:  <br/>
 
 - 
 
 <p align="center">
 <br />
-<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+ <img src="https://imgur.com/jnY8UpJ.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/6WzJr0T.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/mM0CdBx.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/M5sS4FM.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
 Install Windows 10 in VirtualBox:  <br/>
