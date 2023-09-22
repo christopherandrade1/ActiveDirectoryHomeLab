@@ -62,7 +62,87 @@ Rename the Networks:  <br/>
 <p align="center">
 <br />
  
-Locate all HTTPS packets from a capture not containing a certain IP address:  <br/>
+Change System Name:  <br/>
+
+- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
+- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+
+<p align="center">
+<br />
+
+Include Active Directory Service:  <br/>
+
+- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
+- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+
+<p align="center">
+<br />
+ 
+Create Administrative Account:  <br/>
+
+- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
+- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+
+<p align="center">
+<br />
+
+Install NAT:  <br/>
+
+- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
+- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+
+<p align="center">
+<br />
+ 
+Install DHCP:  <br/>
+
+- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
+- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+
+<p align="center">
+<br />
+
+Download Script:  <br/>
+
+- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
+- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+
+<p align="center">
+<br />
+ 
+Execute Script:  <br/>
+
+- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
+- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+
+<p align="center">
+<br />
+
+Install Windows 10 in VirtualBox:  <br/>
+
+- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
+- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+
+<p align="center">
+<br />
+ 
+Check if IP is working:  <br/>
+
+- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
+- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+
+<p align="center">
+<br />
+
+Change Windows 10 Name:  <br/>
+
+- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
+- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+
+<p align="center">
+<br />
+ 
+Sign-in with User Account:  <br/>
 
 - A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
 - A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
