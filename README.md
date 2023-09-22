@@ -29,7 +29,7 @@ Download VirtualBox, Windows Sever 2019, Windows 10: <br/>
 
 Install Windows Server 2019: <br/>
 
-- The wired interface includes the ethernet packet capture, which begins with ‘en’ in Wireshark
+- 
 
 <p align="center">
 <br />
@@ -40,8 +40,7 @@ Install Windows Server 2019: <br/>
 
 Insert Guest Additions in Windows Server:  <br/>
 
-- To display certain packets in an existing packet capture, use a display filter
-- To display only HTTPS traffic, use a filter on TCP port 443: **tcp.port == 443**
+- 
  
 <p align="center">
 <br />
@@ -56,8 +55,7 @@ Insert Guest Additions in Windows Server:  <br/>
 
 Rename the Networks:  <br/>
 
-- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
-- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+- 
 
 <p align="center">
 <br />
@@ -74,8 +72,7 @@ Rename the Networks:  <br/>
  
 Change System Name:  <br/>
 
-- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
-- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+- 
 
 <p align="center">
 <br />
@@ -84,8 +81,7 @@ Change System Name:  <br/>
 
 Include Active Directory Service:  <br/>
 
-- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
-- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+- 
 
 <p align="center">
 <br />
@@ -102,8 +98,7 @@ Include Active Directory Service:  <br/>
  
 Create Administrative Account:  <br/>
 
-- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
-- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+- 
 
 <p align="center">
 <br />
@@ -118,8 +113,7 @@ Create Administrative Account:  <br/>
 
 Install NAT:  <br/>
 
-- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
-- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+- 
 
 <p align="center">
 <br />
@@ -142,18 +136,38 @@ Install NAT:  <br/>
  
 Install DHCP:  <br/>
 
-- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
-- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+- 
 
 <p align="center">
 <br />
-<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://imgur.com/g9htZiI.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/FKD6X8y.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/FbPaGnM.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/TjrW7qI.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/294g95a.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/sdllQCw.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/NGSfAFu.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/VTCFiMh.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/IgwxQn6.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/kNlgNaX.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/PC7EctO.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/KVMm0nx.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
 Download Script:  <br/>
 
-- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
-- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+- 
 
 <p align="center">
 <br />
@@ -162,8 +176,7 @@ Download Script:  <br/>
  
 Execute Script:  <br/>
 
-- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
-- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+- 
 
 <p align="center">
 <br />
@@ -172,8 +185,7 @@ Execute Script:  <br/>
 
 Install Windows 10 in VirtualBox:  <br/>
 
-- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
-- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+- 
 
 <p align="center">
 <br />
@@ -182,8 +194,7 @@ Install Windows 10 in VirtualBox:  <br/>
  
 Check if IP is working:  <br/>
 
-- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
-- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+- 
 
 <p align="center">
 <br />
@@ -192,8 +203,7 @@ Check if IP is working:  <br/>
 
 Change Windows 10 Name:  <br/>
 
-- A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
-- The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
+- 
 
 <p align="center">
 <br /><img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -201,8 +211,7 @@ Change Windows 10 Name:  <br/>
  
 Sign-in with User Account:  <br/>
 
-- A Conditional statement may be used to include and eliminate packets from a Wireshark capture: **!(ip.addr == 8.43.85.97) and tcp.port == 443**
-- A compound conditional should include parentheses to avoid order of execution errors: **!(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)**
+- 
 
 <p align="center">
 <br /><img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
