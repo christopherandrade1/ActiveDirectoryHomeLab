@@ -107,7 +107,13 @@ Create Administrative Account:  <br/>
 
 <p align="center">
 <br />
-<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://imgur.com/G7DcQG0.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/805a8e3.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/F3SFAPV.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/BwxVeCA.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
 Install NAT:  <br/>
