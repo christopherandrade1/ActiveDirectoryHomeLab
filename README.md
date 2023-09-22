@@ -186,7 +186,7 @@ Install Windows 10 in VirtualBox:  <br/>
 
 <p align="center">
 <br />
-<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://imgur.com/NmNEmpz.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
 Check if IP is working:  <br/>
