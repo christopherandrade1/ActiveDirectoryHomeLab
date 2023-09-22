@@ -14,39 +14,47 @@ In this project, I demonstrate the step-by-step process of establishing a fundam
 <h2>Environment Used </h2>
 
 - <b>Oracle VirtualBox</b>
-- <b>Windows Server</b>
+- <b>Windows Server 2019</b>
 - <b>Windows 10</b>
 
 <h2>Project Overview:</h2>
 
-Download VirtualBox, Windows Sever, Windows 10: <br/>
+Download VirtualBox, Windows Sever 2019, Windows 10: <br/>
 
 - <a href="https://www.virtualbox.org/wiki/Downloads">Oracle VirtualBox</a>
-- <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019">Windows Server</a>
+- <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019">Windows Server 2019</a>
 - <a href="https://www.microsoft.com/en-us/software-download/windows10">Windows 10</a>
 
-<p align="center">
 <br />
-<br />
- 
-Start a packet capture on an ethernet port and save it to file: <br/>
+
+Install Windows Server 2019: <br/>
 
 - The wired interface includes the ethernet packet capture, which begins with ‘en’ in Wireshark
-- The Wireshark app includes controls to start packet capture, stop capture, save the packets to a file, and load the capture file
-- A capture can only be saved once the capture has stopped
 
 <p align="center">
 <br />
+<img src="https://imgur.com/XvVgU7n.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/OZ2n8zH.png" height="80%" width="80%" alt="Installation Steps"/>
+<br /> 
 
-Use a display filter to detect HTTPS packets:  <br/>
+Insert Guest Additions in Windows Server:  <br/>
 
 - To display certain packets in an existing packet capture, use a display filter
 - To display only HTTPS traffic, use a filter on TCP port 443: **tcp.port == 443**
  
 <p align="center">
 <br />
+<img src="https://imgur.com/9EdEnAc.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/Rlc0ayu.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/mWaEl7R.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<img src="https://imgur.com/IPQQMNl.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
 
-Visit a web page and detect its IP address using a display filter:  <br/>
+Rename the Networks:  <br/>
 
 - A TLS handshake display filter may be used to detect a website visit in a packet list: **tls.handshake.type ==1**
 - The IP address is used in a filter to obtain packet information for a particular website: **ip.addr == 142.250.189.4**
