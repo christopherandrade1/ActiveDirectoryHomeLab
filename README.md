@@ -189,21 +189,14 @@ Install Windows 10 in VirtualBox:  <br/>
 <img src="https://imgur.com/NmNEmpz.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
-Check if IP is working:  <br/>
-
-- 
-
-<p align="center">
-<br />
-<img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
-<br />
-
 Change Windows 10 Name:  <br/>
 
 - 
 
 <p align="center">
-<br /><img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<br /><img src="https://imgur.com/NiA65tL.png" height="80%" width="80%" alt="Installation Steps"/>
+<br />
+<br /><img src="https://imgur.com/wTz8NT2.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
 Sign-in with User Account:  <br/>
@@ -211,7 +204,7 @@ Sign-in with User Account:  <br/>
 - 
 
 <p align="center">
-<br /><img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
+<br /><img src="https://imgur.com/T2Xja5j.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
 <!--
