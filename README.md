@@ -19,7 +19,7 @@ In this project, I demonstrate the step-by-step process of establishing a fundam
 
 <h2>Project Overview:</h2>
 
-Download VirtualBox, Windows Sever 2019, Windows 10: <br/>
+Installed and setup Oracle VirtualBox, Windows Sever 2019, Windows 10: <br/>
 
 - <a href="https://www.virtualbox.org/wiki/Downloads">Oracle VirtualBox</a>
 - <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019">Windows Server 2019</a>
@@ -27,33 +27,7 @@ Download VirtualBox, Windows Sever 2019, Windows 10: <br/>
 
 <br />
 
-Install Windows Server 2019: <br/>
-
-- 
-
-<p align="center">
-<br />
-<img src="https://imgur.com/XvVgU7n.png" height="80%" width="80%" alt="Installation Steps"/>
-<br />
-<img src="https://imgur.com/OZ2n8zH.png" height="80%" width="80%" alt="Installation Steps"/>
-<br /> 
-
-Insert Guest Additions in Windows Server:  <br/>
-
-- 
- 
-<p align="center">
-<br />
-<img src="https://imgur.com/9EdEnAc.png" height="80%" width="80%" alt="Installation Steps"/>
-<br />
-<img src="https://imgur.com/Rlc0ayu.png" height="80%" width="80%" alt="Installation Steps"/>
-<br />
-<img src="https://imgur.com/mWaEl7R.png" height="80%" width="80%" alt="Installation Steps"/>
-<br />
-<img src="https://imgur.com/IPQQMNl.png" height="80%" width="80%" alt="Installation Steps"/>
-<br />
-
-Rename the Networks:  <br/>
+Renamed the Networks:  <br/>
 
 - 
 
@@ -70,7 +44,7 @@ Rename the Networks:  <br/>
 <img src="https://imgur.com/vqPiETY.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
-Change System Name:  <br/>
+Changed the Systems Name:  <br/>
 
 - 
 
@@ -79,7 +53,7 @@ Change System Name:  <br/>
 <img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
-Include Active Directory Service:  <br/>
+Included Active Directory Service:  <br/>
 
 - 
 
@@ -96,7 +70,7 @@ Include Active Directory Service:  <br/>
 <img src="https://imgur.com/SGwajwn.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
-Create Administrative Account:  <br/>
+Created an Administrative Account:  <br/>
 
 - 
 
@@ -111,7 +85,7 @@ Create Administrative Account:  <br/>
 <img src="https://imgur.com/BwxVeCA.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
-Install NAT:  <br/>
+Installed NAT:  <br/>
 
 - 
 
@@ -134,7 +108,7 @@ Install NAT:  <br/>
 <img src="https://imgur.com/AtWK0y9.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
-Install DHCP:  <br/>
+Installed DHCP:  <br/>
 
 - 
 
@@ -165,7 +139,7 @@ Install DHCP:  <br/>
 <img src="https://imgur.com/KVMm0nx.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
-Execute Script:  <br/>
+Executed the python script:  <br/>
 
 - 
 
@@ -180,7 +154,7 @@ Execute Script:  <br/>
 <img src="https://imgur.com/M5sS4FM.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 
-Install Windows 10 in VirtualBox:  <br/>
+Installed Windows 10 in VirtualBox:  <br/>
 
 - 
 
@@ -189,7 +163,7 @@ Install Windows 10 in VirtualBox:  <br/>
 <img src="https://imgur.com/NmNEmpz.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
-Change Windows 10 Name:  <br/>
+Changed Windows 10 Name:  <br/>
 
 - 
 
@@ -199,7 +173,7 @@ Change Windows 10 Name:  <br/>
 <br /><img src="https://imgur.com/wTz8NT2.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
  
-Sign-in with User Account:  <br/>
+Signed in with User Account:  <br/>
 
 - 
 
