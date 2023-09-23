@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, I demonstrate the step-by-step process of establishing a fundamental Active Directory Home Lab and utilizing PowerShell to efficiently incorporate users.
+In this project, I demonstrate the process of establishing a fundamental Active Directory Home Lab and utilizing PowerShell to efficiently incorporate users.
 <br />
 
 
@@ -29,7 +29,6 @@ Installed and setup Oracle VirtualBox, Windows Sever 2019, Windows 10: <br/>
 
 Renamed the Networks:  <br/>
 
-- 
 
 <p align="center">
 <br />
@@ -43,19 +42,20 @@ Renamed the Networks:  <br/>
 <br />
 <img src="https://imgur.com/vqPiETY.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
+<br />
+
  
 Changed the Systems Name:  <br/>
 
-- 
 
 <p align="center">
 <br />
 <img src="https://imgur.com/7vKUXx7.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
+<br />
 
 Included Active Directory Service:  <br/>
 
-- 
 
 <p align="center">
 <br />
@@ -69,10 +69,10 @@ Included Active Directory Service:  <br/>
 <br />
 <img src="https://imgur.com/SGwajwn.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
+<br />
  
 Created an Administrative Account:  <br/>
 
-- 
 
 <p align="center">
 <br />
@@ -84,10 +84,10 @@ Created an Administrative Account:  <br/>
 <br />
 <img src="https://imgur.com/BwxVeCA.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
+<br />
 
 Installed NAT:  <br/>
 
-- 
 
 <p align="center">
 <br />
@@ -107,10 +107,10 @@ Installed NAT:  <br/>
 <br />
 <img src="https://imgur.com/AtWK0y9.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
+<br />
  
 Installed DHCP:  <br/>
 
-- 
 
 <p align="center">
 <br />
@@ -138,10 +138,10 @@ Installed DHCP:  <br/>
 <br />
 <img src="https://imgur.com/KVMm0nx.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
+<br />
 
-Executed the python script:  <br/>
+Executed the python script to incorporate users from the names.txt file:  <br/>
 
-- 
 
 <p align="center">
 <br />
@@ -153,29 +153,20 @@ Executed the python script:  <br/>
 <br />
 <img src="https://imgur.com/M5sS4FM.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
-
-Installed Windows 10 in VirtualBox:  <br/>
-
-- 
-
-<p align="center">
 <br />
-<img src="https://imgur.com/NmNEmpz.png" height="80%" width="80%" alt="Installation Steps"/>
-<br />
- 
+
 Changed Windows 10 Name:  <br/>
 
-- 
 
 <p align="center">
 <br /><img src="https://imgur.com/NiA65tL.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
 <br /><img src="https://imgur.com/wTz8NT2.png" height="80%" width="80%" alt="Installation Steps"/>
 <br />
+<br />
  
 Signed in with User Account:  <br/>
 
-- 
 
 <p align="center">
 <br /><img src="https://imgur.com/T2Xja5j.png" height="80%" width="80%" alt="Installation Steps"/>
